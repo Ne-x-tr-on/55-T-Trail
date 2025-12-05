@@ -63,4 +63,4 @@ This project is a **tribute to David Kamau**, symbolizing legacy, innovation, an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/55-T-TRAIL.git
+git clone https://github.com/Ne-x-tr-on/55-T-TRAIL.git
