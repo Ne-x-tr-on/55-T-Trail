@@ -16,8 +16,6 @@
 
 The prototype integrates **Arduino for motor and sensor control**, **Python for real-time scheduling and ETA calculation**, and **Rust for backend logic and safety-critical algorithms**.  
 
-This project is a **tribute to David Kamau**, symbolizing legacy, innovation, and continuous movement forward.
-
 ---
 
 ## Features
